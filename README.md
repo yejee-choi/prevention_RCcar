@@ -46,3 +46,9 @@
 | LCD I2C | 0x3F |
 
 ---
+
+## 코드 소개
+
+부품별 코드는 **RCcar_CapStone** 파일 안에서 확인할 수 있습니다.
+
+전체 코드는 **[CapStone]Smart.SafetyCar.ino** 에서 확인할 수 있습니다.
